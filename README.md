@@ -1,2 +1,2 @@
 # ARfollowing
- Spawn and rotate while following main objects
+Spawning child objects following and rotating arroung flying main objects.
